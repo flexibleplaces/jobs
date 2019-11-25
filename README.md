@@ -4,7 +4,7 @@
 
 Buscamos a una persona apasionada con el desarrollo de software y la tecnología para formar parte de nuestro nuevo equipo en un proyecto muy disruptivo e innovador.
 
-Es importante que entienda el objetivo del negocio y se sienta capaz de alinear los objetivos de negocio con su papel como desarrollador de la plataforma, ver www.flexibleplaces.com
+Es importante que entienda el objetivo del negocio y se sienta capaz de alinear los objetivos de negocio con su papel como desarrollador de la plataforma, ver flexibleplaces.com
 
 Formarás parte del equipo de IT y tendrás la oportunidad de gestionar a otros desarrolladores en la medida que crezca el equipo.
 
