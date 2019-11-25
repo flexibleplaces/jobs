@@ -1,6 +1,6 @@
 # Javascript Senior Full Stack Developer
 
-##Descripción
+## Descripción
 
 Buscamos a una persona apasionada con el desarrollo de software y la tecnología para formar parte de nuestro nuevo equipo en un proyecto muy disruptivo e innovador.
 
@@ -21,13 +21,13 @@ Tecnologias empleadas en la plataforma actual:
 Angular, React, TypeScript, Lodash, Node.js, MongoDB, CSS
 
 
-##Requerimientos
+## Requerimientos
 
 * Licenciatura en Informatica o similar.
 * Experiencia mínima de cuatro años como programador full stack javascript.
 * Alto conocimiento en las tecnologias mencionadas en la descripción.
 
-##Valoraremos
+## Valoraremos
 
 * Conocimiento avanzado en Amazon Web Services.
 * Conocimiento y metodologias de testing, devops.
